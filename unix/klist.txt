@@ -1,0 +1,5 @@
+Credentials cache: API:313D73E8-1B84-4DCB-9CDA-A5A64C6176B3
+        Principal: mkurleke@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Sep  9 19:46:51 2020  Sep 10 05:46:45 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
